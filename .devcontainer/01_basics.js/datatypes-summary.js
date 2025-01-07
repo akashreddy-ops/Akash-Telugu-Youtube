@@ -31,3 +31,33 @@
 // const myFunction = function(){
 //     console.log("Hello World");
 // }
+
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack (primitive)  and Heap (Non primitive)
+
+let myyoutubename = "Akahreddydotcom"
+
+let anotherName = "myyoutubename"
+anotherName = "TeluguchannelCoder"
+
+console.log(myyoutubename);
+console.log(anotherName);
+
+
+let userOne = {
+    email: "akashreddyyoutube.com",
+    upi: "user@ybl"
+}
+
+
+let userTwo = userOne 
+userTwo.email = "akashreddyyoutube.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
+
