@@ -1,2 +1,2 @@
 # Akash-Telugu-Youtube
-Javascript coding practise Akash Youtube Channel.
+Javascript Coding Practise Akash Youtube Channel.
